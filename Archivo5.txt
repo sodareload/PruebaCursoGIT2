@@ -1,7 +1,2 @@
 Linea 1
 Linea 2
-<<<<<<< HEAD
-Linea 4
-Linea 5
-=======
->>>>>>> parent of b858290 (Se agrega linea 3 al archivo 5)
